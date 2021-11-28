@@ -7,7 +7,7 @@ namespace Git_kr
         public static void Main(string[] args)
         {
             DateTime today = DateTime.Today;
-            Console.WriteLine("Добрый день, сегодня " + today.ToString("D"));
+            Console.WriteLine("Добрый день," + Environment.UserName + "сегодня " + today.ToString("D"));
         }
     }
 }
