@@ -1,0 +1,15 @@
+F:\Git_kr\Git_kr\bin\Debug\net6.0\Git_kr.exe
+F:\Git_kr\Git_kr\bin\Debug\net6.0\Git_kr.deps.json
+F:\Git_kr\Git_kr\bin\Debug\net6.0\Git_kr.runtimeconfig.json
+F:\Git_kr\Git_kr\bin\Debug\net6.0\Git_kr.dll
+F:\Git_kr\Git_kr\bin\Debug\net6.0\ref\Git_kr.dll
+F:\Git_kr\Git_kr\bin\Debug\net6.0\Git_kr.pdb
+F:\Git_kr\Git_kr\obj\Debug\net6.0\Git_kr.csproj.AssemblyReference.cache
+F:\Git_kr\Git_kr\obj\Debug\net6.0\Git_kr.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git_kr\Git_kr\obj\Debug\net6.0\Git_kr.AssemblyInfoInputs.cache
+F:\Git_kr\Git_kr\obj\Debug\net6.0\Git_kr.AssemblyInfo.cs
+F:\Git_kr\Git_kr\obj\Debug\net6.0\Git_kr.csproj.CoreCompileInputs.cache
+F:\Git_kr\Git_kr\obj\Debug\net6.0\Git_kr.dll
+F:\Git_kr\Git_kr\obj\Debug\net6.0\ref\Git_kr.dll
+F:\Git_kr\Git_kr\obj\Debug\net6.0\Git_kr.pdb
+F:\Git_kr\Git_kr\obj\Debug\net6.0\Git_kr.genruntimeconfig.cache
