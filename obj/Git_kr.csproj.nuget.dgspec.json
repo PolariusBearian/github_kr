@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Git_kr\\Git_kr\\Git_kr.csproj": {}
+    "F:\\Git_for_PenPen\\Git_kr.csproj": {}
   },
   "projects": {
-    "F:\\Git_kr\\Git_kr\\Git_kr.csproj": {
+    "F:\\Git_for_PenPen\\Git_kr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Git_kr\\Git_kr\\Git_kr.csproj",
+        "projectUniqueName": "F:\\Git_for_PenPen\\Git_kr.csproj",
         "projectName": "Git_kr",
-        "projectPath": "F:\\Git_kr\\Git_kr\\Git_kr.csproj",
+        "projectPath": "F:\\Git_for_PenPen\\Git_kr.csproj",
         "packagesPath": "C:\\Users\\PolarBear\\.nuget\\packages\\",
-        "outputPath": "F:\\Git_kr\\Git_kr\\obj\\",
+        "outputPath": "F:\\Git_for_PenPen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PolarBear\\AppData\\Roaming\\NuGet\\NuGet.Config"
